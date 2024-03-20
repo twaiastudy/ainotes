@@ -1,5 +1,6 @@
-主辧單位: 台灣人工智慧協會進修交流委員會、H.I.T. 生醫創新實作社群及MIT license
-Copyright (c) 2012-2024 Scott Chacon and others
+主辧單位: 台灣人工智慧協會進修交流委員會、H.I.T. 生醫創新實作社群
+MIT license
+Copyright (c) 2024  
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
